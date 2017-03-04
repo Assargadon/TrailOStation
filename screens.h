@@ -1,0 +1,9 @@
+#define SCR_TEST_BUTTONS 1
+#define SCR_TEST_MEMBERS 2
+#define SCR_LOAD_GAME 3
+#define SCR_ENTER_ID 4
+#define SCR_CHECK_ID 5
+#define SCR_WAIT_FOR_START 6
+#define SCR_PLAY 7
+#define SCR_SAVE_RESULT 8
+
